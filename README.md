@@ -22,10 +22,9 @@ pandas
 mysql-connector-python
 streamlit
 Setup and Installation
-Clone the repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+
+
 Install the required Python packages:
 
 pip install google-api-python-client pandas mysql-connector-python streamlit
